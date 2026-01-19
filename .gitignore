@@ -6,4 +6,5 @@ _site
 vendor
 .bundle
 .cemetery
+.DS_Store
 _playground
