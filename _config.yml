@@ -18,7 +18,8 @@ tagline: AI for Materials Reading Group at Mila
 email: alex.hernandez-garcia@mila.quebec
 description: Website of the AI Mat Reading Group at Mila
 author: Team of organisers
-url: https://ai-mat-rg.github.io
+url: https://ai-for-materials-mila.github.io
+baseurl: /ai-mat-rg.github.io
 
 # Custom variables
 hero_image: /assets/images/banner/AIMAT.png
