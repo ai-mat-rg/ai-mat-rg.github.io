@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: Organizers
 permalink: /about
 ---
 We are a group of students, postdocs, professors and research scientists at Mila interested in educating ourselves and the wider community at our organisation about the interconnection between science, technology and society.
