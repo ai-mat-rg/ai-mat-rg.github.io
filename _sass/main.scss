@@ -1,3 +1,52 @@
 .current {
   color: green;
 }
+
+html, body {
+  background-color: #E8F4FD !important;
+  color-scheme: light;
+  color: #363636 !important;
+}
+
+nav.navbar {
+  background-color: #E8F4FD !important;
+
+  .navbar-item, .navbar-link, strong {
+    color: #363636 !important;
+  }
+}
+
+.title, .subtitle, h1, h2, h3, h4, h5, h6 {
+  color: #363636 !important;
+}
+
+.hero {
+  position: relative;
+
+  &::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.35);
+    z-index: 0;
+  }
+
+  .hero-body {
+    position: relative;
+    z-index: 1;
+  }
+}
+
+.hero .title, .hero .subtitle {
+  color: #FFFFFF !important;
+  text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.8);
+}
+
+.card {
+  background-color: #D6EAF8 !important;
+  color: #363636 !important;
+
+  .title, .subtitle {
+    color: #363636 !important;
+  }
+}

@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Critical Science
-tagline: Reading Group at Mila
+title: AI Mat 
+tagline: AI for Materials Reading Group at Mila
 email: alex.hernandez-garcia@mila.quebec
-description: Website of the Critical Science Reading Group at Mila
+description: Website of the AI Mat Reading Group at Mila
 author: Team of organisers
-url: https://criticalscience.github.io
+url: https://ai-mat-rg.github.io
 
 # Custom variables
-hero_image: /assets/images/banner/flowers_and_spikes.png
+hero_image: /assets/images/banner/AIMAT.png
 
 # Reading Files
 include:

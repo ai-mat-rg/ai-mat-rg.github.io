@@ -1,198 +1,54 @@
-- id: no-tech-for-apartheid
-  name: Tech enabled systematic violation of human rights in the Middle East
-  date: 2024-03-22
-  materials:
-    - name: "NoTechForApartheid"
-      link: https://www.youtube.com/watch?v=QVrjA-5Ak0U
-      type: Video panel discussion
-    - name: "NoTechForApartheid, Timnit Gebru"
-      link: https://www.dair-institute.org/blog/NoTechForApartheid/
-      type: Blog post
-
-- id: un-perspectives-militarisation
-  name: UN's perspective on AI militarisation and its implications in the world
-  date: 2024-04-05
-  materials:
-    - name: "Artificial Intelligence Beyond Weapons: Application and Impact of AI in the Military Domain"
-      link: https://unidir.org/wp-content/uploads/2023/10/UNIDIR_AI_Beyond_Weapons_Application_Impact_AI_in_the_Military_Domain.pdf
-      type: UN Report
-
-- id: ai-assisted-targeting
-  name: AI-Assisted Targeting in the Military
-  date: 2024-04-19
-  materials:
-    - name: "U.S. Deploys AI-Assisted Targeting"
-      link: https://info.deeplearning.ai/one-agent-for-many-worlds-cross-species-cell-embeddings-u.s.-deploys-ai-targeting-robo-football-gets-real
-      type: Media article
-    - name: "‘A mass assassination factory’: Inside Israel’s calculated bombing of Gaza"
-      link: https://www.972mag.com/mass-assassination-factory-israel-calculated-bombing-gaza/
-      type: Media article
-    - name: "‘Lavender’: The AI machine directing Israel’s bombing spree in Gaza"
-      link: https://www.972mag.com/lavender-ai-israeli-army-gaza/
-      type: Media article
-    - name: "Ukraine’s Homegrown Drones"
-      link: https://www.deeplearning.ai/the-batch/ukraines-drone-industry-takes-flight-amidst-conflict/
-      type: Media article
-
-- id: deepfakes
-  name: Deep Fakes in the Military
-  date: 2024-05-03
-  materials:
-    - name: "Do deepfake videos undermine our epistemic trust? A thematic analysis of tweets that discuss deepfakes in the Russian invasion of Ukraine"
-      link: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0291668
-      type: Article
-    - name: "AI: Voice cloning tech emerges in Sudan civil war"
-      link: https://www.bbc.com/news/world-africa-66987869#
-      type: Media article
-    - name: "Fake babies, real horror: Deepfakes from the Gaza war increase fears about AI’s power to mislead"
-      link: https://apnews.com/article/artificial-intelligence-hamas-israel-misinformation-ai-gaza-a1bb303b637ffbbb9cbc3aa1e000db47
-      type: Media article
-
-- id: diplomacy-weapons
-  name: Diplomatic Process on Autonomous Weapons Systems, Challenges, and Opportunities
-  date: 2024-05-13
-  description: This is a special session with two guest speakers, [Wanda Muñoz](https://wandamunoz.com/) and [Gisela Lujan Andrade](https://www.linkedin.com/authwall?trk=gf&trkInfo=AQGUs44fOr0FpQAAAZct9pBYGVPgiHzt135ZCVPwLEaKRaj0jys0zpXJqqeDW-JUk8RDQ73ZjRQ3rDq2i5h49JTi83VztkAjqcWmVk1RsHygVVugd5QYYhsC0SIs-o0mXeV7AlY=&original_referer=&sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fgiselalujanandrade%2F).
-  materials:
-    - name: "Autonomous weapons and deepfakes: the risks of the ongoing weaponization of ai and the urgent need for regulation"
-      link: https://unesdoc.unesco.org/in/documentViewer.xhtml?v=2.1.196&id=p::usmarcdef_0000384787&file=/in/rest/annotationSVC/DownloadWatermarkedAttachment/attach_import_c75d935a-735f-435d-b54b-2a288c57da69%3F_%3D384787eng.pdf&locale=en&multi=true&ark=/ark:/48223/pf0000384787/PDF/384787eng.pdf#A14974_Mila_MissingLinksAI_8x10_AN_EP10.indd%3A.142603%3A1179
-      type: Report
-
-- id: montreal-declaration
-  name: Montreal Responsible AI Declaration
-  date: 2024-05-31
-  description: This is a special session with [Marc-Antoine Dilhac](https://mila.quebec/en/person/marc-antoine-dilhac/), lead author of Montreal Responsible AI Declaration, as guest speaker.
-  materials:
-    - name: "Montreal Responsible AI Declaration"
-      link: https://declarationmontreal-iaresponsable.com/wp-content/uploads/2023/04/UdeM_Decl-IA-Resp_LA-Declaration-ENG_WEB_09-07-19.pdf
-      type: Declaration
-
-- id: decolonial-ai
-  name: Introduction of the Critical Science Reading Group & Decolonial AI
-  date: 2025-05-02
-  materials:
-    - name: "Decolonial AI: Decolonial theory as sociotechnical foresight in artificial intelligence"
-      link: https://arxiv.org/abs/2007.04068
-      type: Article
-
-- id: values-encoded-in-ml
-  name: The Values Encoded in Machine Learning Research
-  date: 2025-05-16
-  materials:
-    - name: "The Values Encoded in Machine Learning Research"
-      link: https://dl.acm.org/doi/abs/10.1145/3531146.3533083
-      type: Article
-
-- id: great-transition
-  name: Exploring roles for technology in radical theories of change
-  date: 2025-05-30
-  description: This is a special session because instead of hosting a discussion at Mila, we invite all participants to attend the workshop organised by some of our friends at [The Great Transition Conference](https://thegreattransition.net/).
-  materials:
-    - name: "Exploring roles for technology in radical theories of change"
-      link: https://thegreattransition.net/schedule/
-      type: Special talk
-    
-- id: RAIL
-  name: Responsible AI licenses
-  date: 2025-06-13
-  materials:
-    - name: "Responsible AI Licenses (RAIL)"
-      link: https://www.licenses.ai/
-      type: Website
-    - name: "Behavioral Use Licensing for Responsible AI"
-      link: https://dl.acm.org/doi/pdf/10.1145/3531146.3533143
-      type: FAccT 2022 paper 
-    - name: "On the Standardization of Behavioral Use Clauses and Their Adoption for Responsible Licensing of AI"
-      link: https://arxiv.org/pdf/2402.05979
-      type: arXiv paper
-    - name: "Responsible AI licenses: a practical tool for implementing the OECD Principles for Trustworthy AI"
-      link: https://oecd.ai/en/wonk/rails-licenses-trustworthy-ai
-      type: Blog post
-    - name: "Presentation by Marwa El Halabi"
-      link: ./assets/pdf/slides_rail.pdf
-      type: Slides
-      
-- id: military-moral
-  name: Military Funds, Moral Demands
-  date: 2025-06-27
-  materials:
-    - name: "Military Funds, Moral Demands, Personal Responsibilities of the Individual Scientist"
-      link: https://sci-hub.st/https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/j.1749-6632.1989.tb15057.x
-      type: Article
-
-- id: genocide-sep25
-  name: Human rights in Palestine and Canada's implication
-  date: 2025-09-12
-  materials:
-    - name: "From economy of occupation to economy of genocide"
-      link: https://www.un.org/unispal/document/a-hrc-59-23-from-economy-of-occupation-to-economy-of-genocide-report-special-rapporteur-francesca-albanese-palestine-2025/
-      type: Report
-    - name: "Exposing Canadian military exports to Israel"
-      link: https://armsembargonow.ca/wp-content/uploads/2025/07/Exposing-Canadian-Military-Exports-to-Israel_07292025_compressed-.pdf
-      type: Report
-
-- id: art-sep25
-  name: The impact of AI on artists
-  date: 2025-10-08
-  materials:
-    - name: "AI art and its impact on artists"
-      link: https://dl.acm.org/doi/10.1145/3600211.3604681
-      type: Article
-
-- id: role-scientists-climate
-  name: The role of scientists in climate action
-  date: 2025-10-24
-  materials:
-    - name: "How scientists can contribute to the social movements essential to protecting climate and nature"
-      link: https://www.nature.com/articles/s44168-025-00268-9
-      type: Article
-
-- id: ai-capitalism
-  name: AI, capitalism and big tech
-  date: 2025-11-07
-  materials:
-    - name: "Dismantling AI capitalism: the commons as an alternative to the power concentration of Big Tech"
-      link: https://link.springer.com/article/10.1007/s00146-022-01437-8
-      type: Article
-    - name: "The steep cost of capture"
-      link: https://dl.acm.org/doi/abs/10.1145/3488666
-      type: Article
-
-- id: reclaiming-epistemic-diversity
-  name: Reclaiming Epistemic Diversity
-  date: 2025-11-19
-  materials:
-    - name: "Reclaiming epistemic diversity: between community struggles and corporate capture"
-      link: https://magazine.scienceforthepeople.org/vol26-2-ways-of-knowing/reclaiming-epistemic-diversity-corporate-capture/
-      type: Essay
-
-- id: paul-schuetze
-  name: "Invited speaker: Paul Schütze, The Problem of Sustainable AI"
-  date: 2025-12-17
-  materials:
-    - name: "The problem of sustainable aI: A critical assessment of an emerging phenomenon"
-      link: https://ojs.weizenbaum-institut.de/index.php/wjds/article/view/4_1_4
-      type: Article
-
-- id: right-to-ai
-  name: "Invited speakers: Rashid Mushkani and Hugo Berard, The Right to AI"
+- id: alexandria-database
+  presenter: "Pierre-Paul De Breuck (Postdoc, Ruhr University Bochum)"
+  name: "The Alexandria Database of Materials"
   date: 2026-01-14
-  materials:
-    - name: "Position: The Right to AI"
-      link: https://proceedings.mlr.press/v267/mushkani25b.html
-      type: Article
+  time: "2:00–3:00 PM"
+  location: "J09, 6650 building"
 
-- id: military-ai-research-funding
-  name: Military AI research funding
+- id: self-refining-dft
+  presenter: "Majdi Hassan"
+  name: "Self-Refining Training for Amortized Density Functional Theory"
   date: 2026-01-28
-  materials:
-    - name: "Basic research, lethal effects: Military AI research funding as enlistment"
-      link: https://arxiv.org/abs/2411.17840?
-      type: Article
+  time: "2:00–3:00 PM"
 
-- id: empire-of-ai
-  name: "Empire of AI"
-  date: 2026-02-06
+- id: fau-zeolites-gflownets
+  presenter: "Vladimir Kazarin (Mitacs intern, Chemia Discovery; supervised by Prof. Alex Hernandez-Garcia)"
+  name: "Generative Design of FAU Zeolites for CO₂ Capture Using GFlowNets and Multi-Fidelity Rewards"
+  date: 2026-02-11
+  time: "2:00 PM"
+  location: "J09, 6650 building"
   materials:
-    - name: "Empire of AI, by Karen Hao - Chapters 9 and 12"
-      link: https://en.wikipedia.org/wiki/Empire_of_AI
-      type: Book
+    - name: "GFlowNet Foundations"
+      link: https://arxiv.org/abs/2111.09266
+      type: Journal paper
+    - name: "Trajectory Balance: Improved Credit Assignment in GFlowNets"
+      link: https://arxiv.org/abs/2201.13259
+      type: NeurIPS 2022 paper
+    - name: "Crystal-GFN: sampling crystals with desirable properties and constraints"
+      link: https://arxiv.org/abs/2310.04925
+      type: NeurIPS 2023 Workshop paper
+    - name: "The Open DAC 2025 Dataset for Sorbent Discovery in Direct Air Capture"
+      link: https://arxiv.org/abs/2508.03162
+      type: arXiv preprint
+
+- id: nn-potentials-benchmarking
+  presenter: "Dr. Corin Wagen (Rowan)"
+  name: "Benchmarking Neural Network Potentials for Practical Chemical Problems"
+  date: 2026-02-25
+  time: "2:00–3:00 PM"
+  materials:
+    - name: "Benchmarking OMol25-Trained Models on Experimental Reduction-Potential and Electron-Affinity Data"
+      type: Preprint
+    - name: "ExpBDE54: A Slim Experimental Benchmark for Exploring the Pareto Frontier of Bond-Dissociation-Enthalpy-Prediction Methods"
+      type: Preprint
+    - name: "Egret-1: Pretrained Neural Network Potentials for Efficient and Accurate Bioorganic Simulation"
+      type: Preprint
+    - name: "Wiggle150: Benchmarking Density Functionals and Neural Network Potentials on Highly Strained Conformers"
+      type: Preprint
+
+- id: gflownets-combinatorial-chemistry
+  presenter: "Bruno Joyal (MSc candidate, Université Laval/Mila)"
+  name: "GFlowNets for Combinatorial Chemistry"
+  date: 2026-03-11
+  time: "2:00 PM"
+  location: "A14"

@@ -1,8 +1,6 @@
 - name: Events
   link: /events
-- name: Bibliography
-  link: /bibliography
-- name: Subscription
+- name: Stay in touch
   link: /subscribe
 - name: About us
   link: /about

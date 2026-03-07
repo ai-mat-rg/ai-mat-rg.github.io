@@ -1,30 +1,16 @@
 <div class="content">
-  <h3>{{ event.name | markdownify }}</h3>
+  <h4>{{ event.name | markdownify }}</h4>
+  {% if event.presenter %}
+    <p class="is-size-6"><strong style="color: #363636;">{{ event.presenter }}</strong></p>
+  {% endif %}
   <span class="icon">
     <i class="fa-regular fa-calendar"></i>
   </span>
-  <span><i>{{ event.date | date: "%B %e, %Y" }}</i></span>
-  <br>
+  <span><i>{{ event.date | date: "%B %e, %Y" }}{% if event.time %}, {{ event.time }}{% endif %}</i></span>
+  {% if event.location %}
+    <span> · 📍 {{ event.location }}</span>
+  {% endif %}
   {% if event.description %}
     <p>{{ event.description | markdownify }}</p>
-  {% endif %}
-  {% if event.materials %}
-    <ul>
-     {% for item in event.materials %}
-        <li>
-           {% if item.link %}
-             {% if item.type %}
-               <a class="tag" href="{{ item.link }}">{{ item.type }}</a>
-             {% endif %}
-             <a href="{{ item.link }}">{{ item.name }}</a>
-           {% else %}
-             {% if item.type %}
-               <span class="tag">{{ item.type }}</span>
-             {% endif %}
-             {{ item.name }}
-           {% endif %}
-        </li>
-     {% endfor %}
-    </ul>
   {% endif %}
 </div>
