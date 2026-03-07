@@ -3,7 +3,7 @@ layout: page
 title: About us
 permalink: /about
 ---
-We are a group of students, postdocs, professors and research scientists at Mila interested in educating ourselves and the wider community at our organisation about the interconnection between science, technology and society.
+We are a group of students, postdocs, professors and research scientists at Mila passionate about the intersection of artificial intelligence and materials science. Our goal is to educate ourselves and the broader community on topics such as machine learning for materials discovery, interatomic potentials, generative models of crystals, and active learning for scientific applications.
 
 These are some of the folks co-organising the reading group, in random order:
 
