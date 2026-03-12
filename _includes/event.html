@@ -1,7 +1,8 @@
 <div class="content">
   <h4>{{ event.name | markdownify }}</h4>
   {% if event.presenter %}
-    <p class="is-size-6"><strong style="color: #363636;">{{ event.presenter }}</strong></p>
+    {% assign presenter_html = event.presenter | markdownify | replace: "<p>", "" | replace: "</p>", "" %}
+    <p class="is-size-6"><strong style="color: #363636;">{{ presenter_html }}</strong></p>
   {% endif %}
   <span class="icon">
     <i class="fa-regular fa-calendar"></i>
