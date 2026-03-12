@@ -1,7 +1,7 @@
 # https://fontawesome.com/
 # https://jpswalsh.github.io/academicons/
 - name: GitHub
-  link: https://github.com/AI-for-Materials-Mila
+  link: https://github.com/ai-mat-rg/ai-mat-rg.github.io
   icon:
     source: fa
     name: fa-github
