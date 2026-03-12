@@ -7,4 +7,5 @@ vendor
 .bundle
 .cemetery
 .DS_Store
+.claude
 _playground

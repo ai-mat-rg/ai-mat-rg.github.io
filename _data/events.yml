@@ -1,18 +1,18 @@
 - id: alexandria-database
-  presenter: "Pierre-Paul De Breuck (Postdoc, Ruhr University Bochum)"
+  presenter: "[Pierre-Paul De Breuck](https://pierrepauldb.com/) (Postdoc, Ruhr University Bochum)"
   name: "The Alexandria Database of Materials"
   date: 2026-01-14
   time: "2:00–3:00 PM"
   location: "J09, 6650 building"
 
 - id: self-refining-dft
-  presenter: "Majdi Hassan"
+  presenter: "[Majdi Hassan](https://majhas.github.io/) (PhD student, Mila)" 
   name: "Self-Refining Training for Amortized Density Functional Theory"
   date: 2026-01-28
   time: "2:00–3:00 PM"
 
 - id: fau-zeolites-gflownets
-  presenter: "Vladimir Kazarin (Mitacs intern, Chemia Discovery; supervised by Prof. Alex Hernandez-Garcia)"
+  presenter: "[Vladimir Kazarin](https://www.linkedin.com/in/vkazarin/) (Mitacs intern, Chemia Discovery; supervised by Prof. Alex Hernandez-Garcia)"
   name: "Generative Design of FAU Zeolites for CO₂ Capture Using GFlowNets and Multi-Fidelity Rewards"
   date: 2026-02-11
   time: "2:00 PM"
@@ -32,7 +32,7 @@
       type: arXiv preprint
 
 - id: nn-potentials-benchmarking
-  presenter: "Dr. Corin Wagen (Rowan)"
+  presenter: "[Dr. Corin Wagen](https://corinwagen.github.io/public/main/index.html) (Rowan)"
   name: "Benchmarking Neural Network Potentials for Practical Chemical Problems"
   date: 2026-02-25
   time: "2:00–3:00 PM"
@@ -45,10 +45,9 @@
       type: Preprint
     - name: "Wiggle150: Benchmarking Density Functionals and Neural Network Potentials on Highly Strained Conformers"
       type: Preprint
-
 - id: gflownets-combinatorial-chemistry
-  presenter: "Bruno Joyal (MSc candidate, Université Laval/Mila)"
+  presenter: "[Bruno Joyal](https://www.linkedin.com/in/bruno-joyal/) (MSc candidate, Université Laval/Mila)"
   name: "GFlowNets for Combinatorial Chemistry"
-  date: 2026-03-11
+  date: 2026-03-25
   time: "2:00 PM"
   location: "A14"
