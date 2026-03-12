@@ -8,9 +8,11 @@
 
 - affiliation: "PhD Candidate at Université de Montréal and Mila"
   fullname: Dounia Shaaban Kabakibo
-  photo: dounia_shaaban_kabakibo.jpg
+  photo: dounia-shaaban-kabakibo.jpg
   pronouns: "she/her"
-  alttext: Dounia Dounia
+  alttext: Dounia Shaaban Kabakibo
+  website: https://mila.quebec/en/directory/dounia-shaaban-kabakibo
+  linkedin: https://www.linkedin.com/in/dounia-shaaban-kabakibo-56a7951b5/
 
 - affiliation: "PhD Candidate at Polytechnique Montréal and Mila"
   fullname: Prashant Govindarajan
@@ -19,11 +21,13 @@
   alttext: Prashant Govindarajan has brown skin, black eyes, and short black hair.
   website: https://gprashant17.github.io/
   linkedin: https://www.linkedin.com/in/prashant-govindarajan-477925161
-  twitter: https://x.com/prashantg_17
 
 
 - affiliation: "PhD Candidate at Concordia University and Mila"
   fullname: Ameer Nizami
-  photo: ameer_nizami.jpg
+  photo: ameer-nizami.png
   pronouns: "he/him"
-  alttext: Ameer Ameer.
+  alttext: Ameer Nizami.
+  website: https://mila.quebec/en/directory/ameer-nizami
+  linkedin: https://www.linkedin.com/in/ameer-nizami-5b6184107/
+
