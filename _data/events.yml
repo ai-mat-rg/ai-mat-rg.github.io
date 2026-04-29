@@ -53,7 +53,7 @@
   location: "A14"
 
 - id: synthesizable-molecular-generation-soft-gflownets
-  presenter: "[Hyeonah Kim](https://hyeonahkimm.github.io/)"
+  presenter: "[Hyeonah Kim](https://hyeonahkimm.github.io/) (Postdoctoral researcher, Mila/Université de Montréal)"
   name: "Synthesizable Molecular Generation via Soft-constrained GFlowNets with Rich Chemical Priors"
   date: 2026-05-06
   time: "2:00 PM"
