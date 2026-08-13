@@ -58,3 +58,38 @@
   date: 2026-05-06
   time: "2:00 PM"
   location: "J09, 6650 building"
+
+- id: battery-electrolytes-ml-potentials
+  presenter: "[Rohith Srinivas](https://rohithsrinivaas.github.io/) (PhD student, Persson Group, UC Berkeley)"
+  name: "Benchmarking Classical and Machine Learning Potentials on capturing the dynamical properties of battery liquid electrolytes"
+  date: 2026-05-20
+  time: "2:00–3:00 PM"
+  location: "J09, 6650 building"
+
+- id: crystal-distance-builder-core
+  presenter: "Muath Hamidi (PhD student, Université de Montréal)"
+  name: "Crystal Distance Builder Core: Physics-Guided Crystal Engineering via CSD-Trained Distance Potentials and Alternating Optimization"
+  date: 2026-06-03
+  time: "2:00 PM"
+  location: "J09, 6650 building"
+
+- id: scaling-laws-symmetry-neural-force-fields
+  presenter: "[Khang Ngo](https://mila.quebec/en/directory/khang-ngo) (PhD student, Mila/McGill University)"
+  name: "Scaling Laws and Symmetry, Evidence from Neural Force Fields"
+  date: 2026-06-17
+  time: "2:00 PM"
+  location: "J09, 6650 building"
+
+- id: superconductor-discovery-ml
+  presenter: "[Benjamin Geisler](https://scholars.ufl.edu/benjamin.geisler) (Research Scientist, University of Florida, Gainesville, FL)"
+  name: "Accelerating the Discovery of Next-Generation High-Tc and High-Critical-Field Superconductors through Machine Learning"
+  date: 2026-07-29
+  time: "2:00 PM"
+  location: "F01, 6650 building"
+
+- id: generative-catalyst-design
+  presenter: "[Minkyu Kim](https://mila.quebec/en/directory/minkyu-kim) (Research Intern, Mila and PhD student, KAIST)"
+  name: "Generative Modeling for Catalyst Design: Progress, Challenges, and Future Directions"
+  date: 2026-08-26
+  time: "2:00 PM"
+  location: "J09, 6650 building"
