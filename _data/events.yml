@@ -93,3 +93,14 @@
   date: 2026-08-26
   time: "2:00 PM"
   location: "J09, 6650 building"
+
+- id: fast-accurate-dft-machine-learning
+  presenter: "Johannes Schmidt (CS PhD student, University of Fribourg)"
+  name: "How to make DFT go brrr - Fast and Accurate Density Functional Theory powered by Machine Learning"
+  date: 2026-09-23
+  time: "2:00 PM"
+  location: "F01"
+  abstract: >-
+    Kohn-Sham density functional theory has been the workhorse for quantum chemistry and materials science for decades. It has been the sweet spot between speed and accuracy and therefore accounts for a large share of supercomputer time. The cubic scaling prohibits large-scale dynamics and high-throughput screening of large molecules. It is caused by the calculation of orbitals to evaluate the non-interacting kinetic energy. Hohenberg and Kohn guarantee that this so-called kinetic energy density functional exists, but it is not known. Previous attempts at $T[\\rho]$ have been successful in predicting the energy, but too unstable to allow finding minimum energy densities through orbital-free density functional theory. Our work presents a framework, training augmentation methods and a machine-learning-powered fast kinetic energy density functional stable enough to allow convergence towards physical densities with chemical accuracy similar to Kohn-Sham when trained on QM9 and evaluated on larger molecules in QMugs.
+  bio: >-
+    I am Johannes Schmidt, a CS PhD student with Bastian Rieck in Fribourg, Switzerland, and I just started a 6-month stay at MILA through the ELLIS/CIFAR program, where my co-supervisor is Guy Wolf. My research focuses on including mathematical and structural biases in machine learning for AI4Science applications. Before my PhD, I studied math and physics in Heidelberg, Germany and did research across string theory, information geometry and finally ML-accelerated DFT. I will tell you about the latter.

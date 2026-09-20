@@ -14,4 +14,12 @@
   {% if event.description %}
     <p>{{ event.description | markdownify }}</p>
   {% endif %}
+  {% if event.abstract %}
+    {% assign abstract_html = event.abstract | markdownify | replace: "<p>", "" | replace: "</p>", "" %}
+    <p><strong>Abstract:</strong> {{ abstract_html }}</p>
+  {% endif %}
+  {% if event.bio %}
+    {% assign bio_html = event.bio | markdownify | replace: "<p>", "" | replace: "</p>", "" %}
+    <p><strong>Bio:</strong> {{ bio_html }}</p>
+  {% endif %}
 </div>
