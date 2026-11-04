@@ -9,7 +9,7 @@ permalink: /events
 
 {% for event in site.data.events %}
   {% assign event_date = event.date | date: "%Y-%m-%d" %}
-  {% if event_date >= today %}
+  {% if event_date > today %}
       {% assign future_events = future_events | push: event %}
   {% else %}
       {% assign past_events = past_events | push: event %}

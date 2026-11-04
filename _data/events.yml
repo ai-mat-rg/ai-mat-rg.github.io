@@ -100,3 +100,10 @@
   date: 2026-09-23
   time: "2:00 PM"
   location: "F01"
+
+- id: linear-foundation-model-quantum-embedding
+  presenter: "[Prof. Nicola Lanatà](https://www.rit.edu/directory/nxlsps-nicola-lanata) (Rochester Institute of Technology)"
+  name: "Linear Foundation Model for Quantum Embedding: Data-Driven Compression of the Ghost Gutzwiller Variational Space"
+  date: 2026-11-04
+  time: "2:00 PM"
+  location: "F01"
